@@ -5,3 +5,6 @@ this is a sample text to learn how github holds the following as a single thread
 - branches
 
 faljdlfjalfjlajj
+
+so this is the second testing, because i merged the pr in the regular way.
+with the new branch, i intend to squash merge the pr.
