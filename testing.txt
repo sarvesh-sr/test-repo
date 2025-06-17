@@ -22,3 +22,10 @@ what i did is:
 in this try, i'm gonna:
 1. create an issue while being at some other branch
 2. try the same as before
+
+=================================================================================================
+fourth take
+
+messed creating the issue part. 
+
+=================================================================================================
