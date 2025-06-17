@@ -8,3 +8,17 @@ faljdlfjalfjlajj
 
 so this is the second testing, because i merged the pr in the regular way.
 with the new branch, i intend to squash merge the pr.
+
+==================================================================================================
+this is the third testing. 
+what i did is:
+1. create a new branch
+2. do a new commit, with the commit msg referencing the issue number.
+3. push to github.
+4. checked in issues section. it mentioned that the issue will be closed after merging with main
+5. merged with main, this time squash merged. no reference to the issue anywhere in the pr.
+6. issue not closed, even before the branch getting deleted. 
+
+in this try, i'm gonna:
+1. create an issue while being at some other branch
+2. try the same as before
